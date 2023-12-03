@@ -1,0 +1,1 @@
+{"dropout_rate": 0.5, "epoch": 2, "with_dropout_val_accuracy": 98.71666666666667, "no_dropout_val_accuracy": 98.63333333333334, "_timestamp": 1698063457.6793766, "_runtime": 596.949426651001, "_step": 5, "_wandb": {"runtime": 596}}

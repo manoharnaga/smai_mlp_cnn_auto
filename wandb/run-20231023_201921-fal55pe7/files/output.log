@@ -1,0 +1,16 @@
+Test Set Metrics:
+              precision    recall  f1-score   support
+           1       0.00      0.00      0.00         6
+           2       0.48      0.75      0.58        96
+           3       0.00      0.00      0.00        99
+           4       0.15      0.46      0.23        26
+           5       0.00      0.00      0.00         2
+    accuracy                           0.37       229
+   macro avg       0.13      0.24      0.16       229
+weighted avg       0.22      0.37      0.27       229
+Test Accuracy: 36.68%
+/home/manohar/.local/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home/manohar/.local/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home/manohar/.local/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.

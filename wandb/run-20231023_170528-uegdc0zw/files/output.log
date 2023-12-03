@@ -1,0 +1,8 @@
+Dropout Rate: 0.25
+Epoch: 1, Validation Accuracy (With Dropout): 98.71%, Validation Accuracy (No Dropout): 98.56%
+Epoch: 2, Validation Accuracy (With Dropout): 99.03%, Validation Accuracy (No Dropout): 98.43%
+Dropout Rate: 0.5
+Epoch: 1, Validation Accuracy (With Dropout): 98.71%, Validation Accuracy (No Dropout): 98.56%
+Epoch: 2, Validation Accuracy (With Dropout): 99.03%, Validation Accuracy (No Dropout): 98.43%
+Epoch: 1, Validation Accuracy (With Dropout): 98.81%, Validation Accuracy (No Dropout): 98.33%
+Epoch: 2, Validation Accuracy (With Dropout): 99.01%, Validation Accuracy (No Dropout): 98.86%

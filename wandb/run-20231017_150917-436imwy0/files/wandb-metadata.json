@@ -1,0 +1,101 @@
+{
+    "os": "Linux-6.2.0-34-generic-x86_64-with-glibc2.35",
+    "python": "3.10.12",
+    "heartbeatAt": "2023-10-17T09:39:20.255483",
+    "startedAt": "2023-10-17T09:39:17.780760",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "host": "manohar-victus",
+    "username": "manohar",
+    "executable": "/bin/python3",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 3424.6825833333337,
+        "min": 1200.0,
+        "max": 3300.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3931.317,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 3465.87,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 4042.537,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 4041.578,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 4042.011,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 4041.444,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 4042.193,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 4041.739,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 3948.718,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 4010.714,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 3767.489,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 2333.315,
+            "min": 1200.0,
+            "max": 3300.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 127.27811431884766,
+            "used": 32.455841064453125
+        }
+    },
+    "gpu": "NVIDIA GeForce GTX 1650",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1650",
+            "memory_total": 4101898240
+        }
+    ],
+    "memory": {
+        "total": 7.092018127441406
+    }
+}

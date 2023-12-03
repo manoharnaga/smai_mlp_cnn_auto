@@ -1,0 +1,29 @@
+
+wandb: Network error (ConnectionError), entering retry loop.
+Class with the minimum examples: Class 5
+Class with the maximum examples: Class 1
+Class imbalance percentage: 24.37%
+Class with the minimum examples: Class 5
+Class with the maximum examples: Class 1
+Class imbalance percentage: 24.37%
+Class with the minimum examples: Class 5
+Class with the maximum examples: Class 1
+Class imbalance percentage: 24.37%
+Class with the minimum examples: Class 5
+Class with the maximum examples: Class 1
+Class imbalance percentage: 24.37%
+Class with the minimum examples: Class 5
+Class with the maximum examples: Class 1
+Class imbalance percentage: 24.37%
+Class with the minimum examples: Class 5
+Class with the maximum examples: Class 1
+Class imbalance percentage: 24.37%
+Class with the minimum examples: Class 5
+Class with the maximum examples: Class 1
+Class imbalance percentage: 24.37%
+Class with the minimum examples: Class 5
+Class with the maximum examples: Class 1
+Class imbalance percentage: 24.37%
+Epoch 1, Training Loss: 0.1501, Training Accuracy: 95.39%, Validation Loss: 0.0445, Validation Accuracy: 98.51%
+Epoch 2, Training Loss: 0.0608, Training Accuracy: 98.15%, Validation Loss: 0.0348, Validation Accuracy: 98.86%
+Epoch 3, Training Loss: 0.0480, Training Accuracy: 98.55%, Validation Loss: 0.0339, Validation Accuracy: 98.91%

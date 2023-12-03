@@ -1,0 +1,6 @@
+Class with the minimum examples: Class 5
+Class with the maximum examples: Class 1
+Class imbalance percentage: 24.37%
+Epoch 1, Training Loss: 0.1496, Training Accuracy: 95.47%, Validation Loss: 0.0390, Validation Accuracy: 98.72%
+Epoch 2, Training Loss: 0.0587, Training Accuracy: 98.25%, Validation Loss: 0.0358, Validation Accuracy: 98.90%
+Epoch 3, Training Loss: 0.0453, Training Accuracy: 98.65%, Validation Loss: 0.0285, Validation Accuracy: 99.04%
